@@ -1,5 +1,3 @@
-function ret(x) {
-    return `Hello, world!`
+function FizzBazz() {
+const Fizz = 0;
 }
-const rt = ret('Hello');
-console.log(rt);
